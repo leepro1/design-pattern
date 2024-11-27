@@ -4,7 +4,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        Singleton3 single = Singleton3.getInstance();
-        System.out.println(single == Singleton3.getInstance());
+        Singleton4 single = Singleton4.getInstance();
+        System.out.println(single == Singleton4.getInstance());
     }
 }
